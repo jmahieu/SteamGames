@@ -1,13 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+"""
+Created on Fri Oct 15 18:52:24 2021
+
+@author: Jeroen Mahieu
+"""
+
 # ## Games List
 # This program downloads all the app ids from Steamspy and converts them to a csv file
 
 # ### Import Libraries
-
-# In[1]:
-
 
 # standard library imports
 import csv
